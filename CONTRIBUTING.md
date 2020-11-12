@@ -15,9 +15,9 @@ This project and everyone participating in it is governed by the [Code of Conduc
 
 We use GitHub issues as a ticket system. You should open an issue if
 
-* you want to [report a bug](https://github.com/tony-lang/tree-sitter-tony/issues/new?assignees=&labels=bug&template=bug_report.md&title=);
-* you want to [open a proposal](https://github.com/tony-lang/tree-sitter-tony/issues/new?assignees=&labels=discussion%2C+proposal&template=proposal.md&title=); or
-* you want to [make changes to the documentation](https://github.com/tony-lang/tree-sitter-tony/issues/new?assignees=&labels=documentation&template=documentation.md&title=) (that go beyond fixing a syntax error here or adding a paragraph there).
+* you want to [report a bug](https://github.com/tony-lang/spec/issues/new?assignees=&labels=bug&template=bug_report.md&title=);
+* you want to [open a proposal](https://github.com/tony-lang/spec/issues/new?assignees=&labels=discussion%2C+proposal&template=proposal.md&title=); or
+* you want to [make changes to the documentation](https://github.com/tony-lang/spec/issues/new?assignees=&labels=documentation&template=documentation.md&title=) (that go beyond fixing a syntax error here or adding a paragraph there).
 
 You should **not** open an issue if
 
